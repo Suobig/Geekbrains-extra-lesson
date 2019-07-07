@@ -8,6 +8,10 @@
   </div>
 </template>
 
+<script>
+</script>
+
+
 <style lang="less">
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
